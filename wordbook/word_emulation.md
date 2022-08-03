@@ -28,4 +28,4 @@
 
 [본 글의 원문은 
 **[Emulation or virtualization: What’s the difference?](http://techpageone.dell.com/technology/emulation-virtualization-whats-difference/#.U0c5gfl_uNx)** 
-에서 보실 수 있습니다]
+에서 보실 수 있습니다.]
