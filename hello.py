@@ -1,6 +1,6 @@
 from time import pthread_getcpuclockid
 
 
-print("helloasd")
+print("helloaasd")
 print("heyasdsada2")
 print("hhaasdfsdasdsd")
