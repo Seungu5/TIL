@@ -1,4 +1,4 @@
 from time import pthread_getcpuclockid
 
-print("hell2osd")
+print("he11ll2osd")
  
