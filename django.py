@@ -1,8 +1,0 @@
-print('hello world')
-print("guakamoly")
-print("sad")
-print("hoho")
-print('hello world')
-print("guakamoly")
-print("sad")
-print("hoho")
