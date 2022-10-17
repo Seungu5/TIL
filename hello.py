@@ -1,3 +1,3 @@
 from time import pthread_getcpuclockid
 
-print("hello World")
+print("Hello World")
